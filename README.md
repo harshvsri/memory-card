@@ -1,6 +1,10 @@
 # Card Selection Game
 
+![Game Screenshot](./public/game.png)
+
 Welcome to the Card Selection Game! Test your memory and strategy as you aim to select all 12 cards without choosing the same card twice. This game challenges your ability to remember card positions and make wise selections.
+
+[Live Demo](memory-card-harshvsri.netlify.app)
 
 ## How to Play
 
@@ -19,14 +23,16 @@ Welcome to the Card Selection Game! Test your memory and strategy as you aim to 
 ## Getting Started
 
 1. Clone the repository.
+
    ```bash
    git clone https://github.com/your-username/card-selection-game.git
    cd card-selection-game
    npm install
    npm run dev
    ```
-3. Open the game in your preferred web browser.
-4. Follow the on-screen instructions to start playing.
+
+2. Open the game in your preferred web browser.
+3. Follow the on-screen instructions to start playing.
 
 ## Contributing
 
