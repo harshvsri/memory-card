@@ -1,7 +1,5 @@
 # Card Selection Game
 
-![Game Screenshot](./public/game.png)
-
 Welcome to the Card Selection Game! Test your memory and strategy as you aim to select all 12 cards without choosing the same card twice. This game challenges your ability to remember card positions and make wise selections.
 
 [Live Demo](memory-card-harshvsri.netlify.app)
