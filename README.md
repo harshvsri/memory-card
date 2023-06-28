@@ -39,6 +39,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 - The game was inspired by memory-based card games.
-- Special thanks to [Insert Name] for their contributions to the project.
+- Special thanks to [Khushi] for their contributions to the project.
 
 Enjoy the Card Selection Game and have fun challenging your memory and strategy skills!
